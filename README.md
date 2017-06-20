@@ -36,60 +36,60 @@ J [  0   6   4   4   0   0   7   4  21 419]]<br />
 
 A 集 :
 
-images[A].shape = (1872L, 28L, 28L)
-images[B].shape = (1873L, 28L, 28L)
-images[C].shape = (1873L, 28L, 28L)
-images[D].shape = (1873L, 28L, 28L)
-images[E].shape = (1873L, 28L, 28L)
-images[F].shape = (1872L, 28L, 28L)
-images[G].shape = (1872L, 28L, 28L)
-images[H].shape = (1872L, 28L, 28L)
-images[I].shape = (1872L, 28L, 28L)
-images[J].shape = (1872L, 28L, 28L)
-Total datasets size
-===================
-n_samples: 18724
-n_features: 784
-n_classes: 10
-===================
+images[A].shape = (1872L, 28L, 28L)<br/>
+images[B].shape = (1873L, 28L, 28L)<br>
+images[C].shape = (1873L, 28L, 28L)<br>
+images[D].shape = (1873L, 28L, 28L)<br>
+images[E].shape = (1873L, 28L, 28L)<br>
+images[F].shape = (1872L, 28L, 28L)<br>
+images[G].shape = (1872L, 28L, 28L)<br>
+images[H].shape = (1872L, 28L, 28L)<br>
+images[I].shape = (1872L, 28L, 28L)<br>
+images[J].shape = (1872L, 28L, 28L)<br>
+Total datasets size<br>
+===================<br>
+n_samples: 18724<br>
+n_features: 784<br>
+n_classes: 10<br>
+===================<br>
 
 B 集 :
 
-images[A].shape = (6546L, 28L, 28L)
-images[B].shape = (7689L, 28L, 28L)
-images[C].shape = (8261L, 28L, 28L)
-images[D].shape = (7788L, 28L, 28L)
-images[E].shape = (7507L, 28L, 28L)
-images[F].shape = (7885L, 28L, 28L)
-images[G].shape = (7788L, 28L, 28L)
-images[H].shape = (7757L, 28L, 28L)
-images[I].shape = (8071L, 28L, 28L)
-images[J].shape = (7955L, 28L, 28L)
-Total datasets size
-===================
-n_samples: 77247
-n_features: 784
-n_classes: 10
-===================
+images[A].shape = (6546L, 28L, 28L)<br>
+images[B].shape = (7689L, 28L, 28L)<br>
+images[C].shape = (8261L, 28L, 28L)<br>
+images[D].shape = (7788L, 28L, 28L)<br>
+images[E].shape = (7507L, 28L, 28L)<br>
+images[F].shape = (7885L, 28L, 28L)<br>
+images[G].shape = (7788L, 28L, 28L)<br>
+images[H].shape = (7757L, 28L, 28L)<br>
+images[I].shape = (8071L, 28L, 28L)<br>
+images[J].shape = (7955L, 28L, 28L)<br>
+Total datasets size<br>
+===================<br>
+n_samples: 77247<br>
+n_features: 784<br>
+n_classes: 10<br>
+===================<br>
 
 C 集 :
 
-images[A].shape = (54781L, 28L, 28L)
-images[B].shape = (54784L, 28L, 28L)
-images[C].shape = (54785L, 28L, 28L)
-images[D].shape = (54784L, 28L, 28L)
-images[E].shape = (54785L, 28L, 28L)
-images[F].shape = (54784L, 28L, 28L)
-images[G].shape = (54784L, 28L, 28L)
-images[H].shape = (54784L, 28L, 28L)
-images[I].shape = (54784L, 28L, 28L)
-images[J].shape = (54783L, 28L, 28L)
-Total datasets size
-===================
-n_samples: 547838
-n_features: 784
-n_classes: 10
-===================
+images[A].shape = (54781L, 28L, 28L)<br>
+images[B].shape = (54784L, 28L, 28L)<br>
+images[C].shape = (54785L, 28L, 28L)<br>
+images[D].shape = (54784L, 28L, 28L)<br>
+images[E].shape = (54785L, 28L, 28L)<br>
+images[F].shape = (54784L, 28L, 28L)<br>
+images[G].shape = (54784L, 28L, 28L)<br>
+images[H].shape = (54784L, 28L, 28L)<br>
+images[I].shape = (54784L, 28L, 28L)<br>
+images[J].shape = (54783L, 28L, 28L)<br>
+Total datasets size<br>
+===================<br>
+n_samples: 547838<br>
+n_features: 784<br>
+n_classes: 10<br>
+===================<br>
 
 來去做各種比對
 

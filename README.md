@@ -4,13 +4,13 @@
 
 ![image](https://github.com/wele7764/Chatacter-Recognition/blob/master/Matrix.jpg)
 
-其中第一直行表示 A 的辨認中,辨認為A的樣本數有405個,便認為B的樣本數有6個.... 依此類推
+其中 Column 1 表示 A 的辨認中,辨認為A的樣本數有412個,便認為B的樣本數有4個.... 依此類推
 
 
 
 我們將資料量分成A,B,C個級數
 
-並用 Random Forests , Xgboost , SVM  三種算法來辨識圖片
+並用 Random Forests , Xgboost , SVM  三種算法來辨識圖片，以及使用PCA降維法先做處理
 
 A 集 :
 

@@ -1,6 +1,7 @@
 # Chatacter-Recognition
 
 矩陣範例
+
 ![image]https://github.com/wele7764/Chatacter-Recognition/blob/master/Matrix.jpg
 
 其中第一直行表示 A 的辨認中,辨認為A的樣本數有405個,便認為B的樣本數有6個.... 依此類推
